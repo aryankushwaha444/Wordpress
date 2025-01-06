@@ -1,0 +1,250 @@
+# Copyright (C) 2024 Widgets for Google Business Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Business Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Widgets for Google Business Reviews and Ratings 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/widgets-for-google-reviews-and-ratings\n"
+"POT-Creation-Date: 2024-10-30 10:52:08+00:00\n"
+"PO-Revision-Date: 2024-11-04 15:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: Bengali <bn@li.org>\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:39
+msgid "Google Reviews Settings"
+msgstr "গুগল রিভিউ সেটিংস"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:40 admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "গুগল রিভিউ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:60
+msgid "Widget Customizer"
+msgstr "উইজেট কাস্টমাইজার"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:62
+msgid "Connect Google"
+msgstr "গুগল সংযুক্ত করুন"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:63 admin/class-widgets-for-google-reviews-and-ratings-admin.php:254
+msgid "Select Layout"
+msgstr "লেআউট নির্বাচন করুন"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:64 admin/class-widgets-for-google-reviews-and-ratings-admin.php:415
+msgid "Settings"
+msgstr "সেটিংস"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:67
+msgid "Get Reviews"
+msgstr "রিভিউ পান"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:153
+msgid "Nonce verification failed"
+msgstr "নন্স যাচাই ব্যর্থ হয়েছে"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:161
+msgid "Error decoding JSON."
+msgstr "JSON ডিকোডিং ত্রুটি।"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:164
+msgid "Error: Place data not received."
+msgstr "ত্রুটি: স্থান ডেটা পাওয়া যায়নি।"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:167
+msgid "An error occurred: "
+msgstr "একটি ত্রুটি ঘটেছে: "
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:206
+msgid "Place Image"
+msgstr "ছবির স্থান"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:211 public/class-widgets-for-google-reviews-and-ratings-public.php:187
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:295 public/class-widgets-for-google-reviews-and-ratings-public.php:472
+msgid "reviews"
+msgstr "রিভিউসমূহ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:217
+msgid "Disconnect"
+msgstr "সংযোগ বিচ্ছিন্ন করুন"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:232
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "স্থান সফলভাবে সংযোগ বিচ্ছিন্ন হয়েছে। একটি নতুন স্থান সংযুক্ত করুন।"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:258
+msgid "Layout: Slider"
+msgstr "লেআউট: স্লাইডার"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:260 admin/class-widgets-for-google-reviews-and-ratings-admin.php:278
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:296 admin/class-widgets-for-google-reviews-and-ratings-admin.php:314
+msgid "Your Shortcode:"
+msgstr "আপনার শর্টকোড:"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263 admin/class-widgets-for-google-reviews-and-ratings-admin.php:281
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:299 admin/class-widgets-for-google-reviews-and-ratings-admin.php:317
+msgid "Copy to Clipboard"
+msgstr "ক্লিপবোর্ডে কপি করুন"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:264 admin/class-widgets-for-google-reviews-and-ratings-admin.php:282
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:300 admin/class-widgets-for-google-reviews-and-ratings-admin.php:318
+msgid "Copied!"
+msgstr "কপি হয়েছে!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:276
+msgid "Layout: Grid"
+msgstr "লেআউট: গ্রিড"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:294
+msgid "Layout: List"
+msgstr "লেআউট: তালিকা"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:312
+msgid "Layout: Sidebar"
+msgstr "লেআউট: সাইডবার"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:361
+msgid "Settings saved successfully!"
+msgstr "সেটিংস সফলভাবে সংরক্ষিত হয়েছে!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:370
+msgid "Google Review Widget Settings"
+msgstr "গুগল রিভিউ উইজেট সেটিংস"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:378
+msgid "Hide Review Date"
+msgstr "রিভিউ তারিখ লুকান"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:384
+msgid "Hide Reviewer Profile Picture"
+msgstr "রিভিউকারীর প্রোফাইল ছবি লুকান"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:390
+msgid "Hide Google Logo"
+msgstr "গুগল লোগো লুকান"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:396
+msgid "Hide Widget Rating Text (e.g. Google Rating Score: 5.0 out of 5, based on XX reviews)"
+msgstr "উইজেট রেটিং টেক্সট লুকান (যেমন: গুগল রেটিং স্কোর: ৫.০ এর মধ্যে ৫, XX রিভিউয়ের উপর ভিত্তি করে)"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:402
+msgid "Save Changes"
+msgstr "পরিবর্তনগুলি সংরক্ষণ করুন"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:408
+msgid "An error occurred while saving the settings. Please try again."
+msgstr "সেটিংস সংরক্ষণ করার সময় একটি ত্রুটি ঘটেছে। অনুগ্রহ করে আবার চেষ্টা করুন।"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:424
+msgid "Community support"
+msgstr "কমিউনিটি সহায়তা"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:425
+msgid "Rate our plugin"
+msgstr "আমাদের প্লাগিন রেট করুন"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "গুগল রিভিউ প্রদর্শনের জন্য একটি উইজেট"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "শিরোনাম:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:73 public/class-widgets-for-google-reviews-and-ratings-public.php:212
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:392 public/class-widgets-for-google-reviews-and-ratings-public.php:566
+msgid "Hide"
+msgstr "লুকান"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:74 public/class-widgets-for-google-reviews-and-ratings-public.php:175
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:213 public/class-widgets-for-google-reviews-and-ratings-public.php:361
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:393 public/class-widgets-for-google-reviews-and-ratings-public.php:533
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:567 public/class-widgets-for-google-reviews-and-ratings-public.php:673
+msgid "Read more"
+msgstr "আরও পড়ুন"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:116 public/class-widgets-for-google-reviews-and-ratings-public.php:257
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:435 public/class-widgets-for-google-reviews-and-ratings-public.php:609
+msgid "Unable to retrieve reviews at this time."
+msgstr "এই মুহূর্তে রিভিউ পুনরুদ্ধার করতে অক্ষম।"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:121 public/class-widgets-for-google-reviews-and-ratings-public.php:127
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:262 public/class-widgets-for-google-reviews-and-ratings-public.php:268
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:440 public/class-widgets-for-google-reviews-and-ratings-public.php:446
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:614 public/class-widgets-for-google-reviews-and-ratings-public.php:620
+msgid "No reviews found."
+msgstr "কোন রিভিউ পাওয়া যায়নি।"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:132 public/class-widgets-for-google-reviews-and-ratings-public.php:305
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:480 public/class-widgets-for-google-reviews-and-ratings-public.php:658
+msgid "%s ago"
+msgstr "%s আগে"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Google"
+msgstr "গুগল"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Rating Score:"
+msgstr "রেটিং স্কোর:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:186
+msgid "out of 5,"
+msgstr "৫ এর মধ্যে,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:187
+msgid "based on"
+msgstr "এর উপর ভিত্তি করে"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:193 public/class-widgets-for-google-reviews-and-ratings-public.php:373
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:546
+msgid "Your Google Place not connected"
+msgstr "আপনার গুগল স্থান সংযুক্ত নয়"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:196 public/class-widgets-for-google-reviews-and-ratings-public.php:376
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:549 public/class-widgets-for-google-reviews-and-ratings-public.php:710
+msgid "An error occurred."
+msgstr "একটি ত্রুটি ঘটেছে।"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:276 public/class-widgets-for-google-reviews-and-ratings-public.php:454
+msgid "EXCELLENT"
+msgstr "চমৎকার"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:368 public/class-widgets-for-google-reviews-and-ratings-public.php:540
+msgid "Load More"
+msgstr "আরো লোড করুন"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:630
+msgid "Excellent rating"
+msgstr "চমৎকার রেটিং"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:631
+msgid "Based on %s reviews"
+msgstr "%s রিভিউয়ের উপর ভিত্তি করে"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:707
+msgid "Your Google Place is not connected."
+msgstr "আপনার গুগল স্থান সংযুক্ত নয়।"
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Business Reviews and Ratings"
+msgstr "গুগল বিজনেস রিভিউ এবং রেটিং-এর জন্য উইজেটসমূহ"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "ত্বরিত এবং সহজে আপনার ওয়ার্ডপ্রেস সাইটে গুগল রিভিউ এম্বেড করুন। SEO উন্নত করুন, বিশ্বাস গড়ুন এবং গুগল রিভিউয়ের মাধ্যমে বিক্রি বাড়ান।"
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "রেপওশান"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"

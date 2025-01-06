@@ -1,0 +1,250 @@
+# Copyright (C) 2024 Widgets for Google Business Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Business Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Widgets for Google Business Reviews and Ratings 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/widgets-for-google-reviews-and-ratings\n"
+"POT-Creation-Date: 2024-10-30 10:52:08+00:00\n"
+"PO-Revision-Date: 2024-11-04 15:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: Română <ro_RO@li.org>\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:39
+msgid "Google Reviews Settings"
+msgstr "Setările recenzilor Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:40 admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "Recenziile Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:60
+msgid "Widget Customizer"
+msgstr "Personalizator de widgeturi"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:62
+msgid "Connect Google"
+msgstr "Conectare Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:63 admin/class-widgets-for-google-reviews-and-ratings-admin.php:254
+msgid "Select Layout"
+msgstr "Selectează aspectul"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:64 admin/class-widgets-for-google-reviews-and-ratings-admin.php:415
+msgid "Settings"
+msgstr "Setări"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:67
+msgid "Get Reviews"
+msgstr "Obține recenzii"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:153
+msgid "Nonce verification failed"
+msgstr "Verificarea nonce a eșuat"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:161
+msgid "Error decoding JSON."
+msgstr "Eroare la decodarea JSON."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:164
+msgid "Error: Place data not received."
+msgstr "Eroare: Datele locației nu au fost primite."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:167
+msgid "An error occurred: "
+msgstr "A apărut o eroare: "
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:206
+msgid "Place Image"
+msgstr "Imaginea locației"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:211 public/class-widgets-for-google-reviews-and-ratings-public.php:187
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:295 public/class-widgets-for-google-reviews-and-ratings-public.php:472
+msgid "reviews"
+msgstr "recenzii"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:217
+msgid "Disconnect"
+msgstr "Dezconectare"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:232
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "Locația a fost deconectată cu succes. Conectează o nouă locație."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:258
+msgid "Layout: Slider"
+msgstr "Aspect: Glisor"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:260 admin/class-widgets-for-google-reviews-and-ratings-admin.php:278
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:296 admin/class-widgets-for-google-reviews-and-ratings-admin.php:314
+msgid "Your Shortcode:"
+msgstr "Codul tău de scurtătură:"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263 admin/class-widgets-for-google-reviews-and-ratings-admin.php:281
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:299 admin/class-widgets-for-google-reviews-and-ratings-admin.php:317
+msgid "Copy to Clipboard"
+msgstr "Copiază în clipboard"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:264 admin/class-widgets-for-google-reviews-and-ratings-admin.php:282
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:300 admin/class-widgets-for-google-reviews-and-ratings-admin.php:318
+msgid "Copied!"
+msgstr "Copiat!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:276
+msgid "Layout: Grid"
+msgstr "Aspect: Grilă"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:294
+msgid "Layout: List"
+msgstr "Aspect: Listă"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:312
+msgid "Layout: Sidebar"
+msgstr "Aspect: Bara laterală"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:361
+msgid "Settings saved successfully!"
+msgstr "Setările au fost salvate cu succes!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:370
+msgid "Google Review Widget Settings"
+msgstr "Setările Widgetului de Recenzie Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:378
+msgid "Hide Review Date"
+msgstr "Ascunde Data Recenziei"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:384
+msgid "Hide Reviewer Profile Picture"
+msgstr "Ascunde Fotografia de Profil a Recenzentului"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:390
+msgid "Hide Google Logo"
+msgstr "Ascunde Logo-ul Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:396
+msgid "Hide Widget Rating Text (e.g. Google Rating Score: 5.0 out of 5, based on XX reviews)"
+msgstr "Ascunde Textul de Evaluare al Widgetului (ex.: Punctajul de Evaluare Google: 5.0 din 5, bazat pe XX recenzii)"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:402
+msgid "Save Changes"
+msgstr "Salvează Modificările"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:408
+msgid "An error occurred while saving the settings. Please try again."
+msgstr "A apărut o eroare la salvarea setărilor. Te rugăm să încerci din nou."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:424
+msgid "Community support"
+msgstr "Asistență din partea Comunității"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:425
+msgid "Rate our plugin"
+msgstr "Evaluează pluginul nostru"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "Un Widget pentru a afișa Recenziile Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "Titlu:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:73 public/class-widgets-for-google-reviews-and-ratings-public.php:212
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:392 public/class-widgets-for-google-reviews-and-ratings-public.php:566
+msgid "Hide"
+msgstr "Ascunde"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:74 public/class-widgets-for-google-reviews-and-ratings-public.php:175
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:213 public/class-widgets-for-google-reviews-and-ratings-public.php:361
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:393 public/class-widgets-for-google-reviews-and-ratings-public.php:533
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:567 public/class-widgets-for-google-reviews-and-ratings-public.php:673
+msgid "Read more"
+msgstr "Citește mai mult"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:116 public/class-widgets-for-google-reviews-and-ratings-public.php:257
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:435 public/class-widgets-for-google-reviews-and-ratings-public.php:609
+msgid "Unable to retrieve reviews at this time."
+msgstr "Nu se pot recupera recenziile în acest moment."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:121 public/class-widgets-for-google-reviews-and-ratings-public.php:127
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:262 public/class-widgets-for-google-reviews-and-ratings-public.php:268
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:440 public/class-widgets-for-google-reviews-and-ratings-public.php:446
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:614 public/class-widgets-for-google-reviews-and-ratings-public.php:620
+msgid "No reviews found."
+msgstr "Nicio recenzie găsită."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:132 public/class-widgets-for-google-reviews-and-ratings-public.php:305
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:480 public/class-widgets-for-google-reviews-and-ratings-public.php:658
+msgid "%s ago"
+msgstr "%s în urmă"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Google"
+msgstr "Google"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Rating Score:"
+msgstr "Scorul evaluării:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:186
+msgid "out of 5,"
+msgstr "din 5,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:187
+msgid "based on"
+msgstr "bazat pe"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:193 public/class-widgets-for-google-reviews-and-ratings-public.php:373
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:546
+msgid "Your Google Place not connected"
+msgstr "Locația ta Google nu este conectată"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:196 public/class-widgets-for-google-reviews-and-ratings-public.php:376
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:549 public/class-widgets-for-google-reviews-and-ratings-public.php:710
+msgid "An error occurred."
+msgstr "A apărut o eroare."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:276 public/class-widgets-for-google-reviews-and-ratings-public.php:454
+msgid "EXCELLENT"
+msgstr "EXCELENT"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:368 public/class-widgets-for-google-reviews-and-ratings-public.php:540
+msgid "Load More"
+msgstr "Încarcă mai mult"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:630
+msgid "Excellent rating"
+msgstr "Evaluare excelentă"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:631
+msgid "Based on %s reviews"
+msgstr "Pe baza %s recenzii"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:707
+msgid "Your Google Place is not connected."
+msgstr "Locația ta Google nu este conectată."
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Business Reviews and Ratings"
+msgstr "Widgeturi pentru Recenzii și Evaluări de Afaceri Google"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "Adăugați rapid și ușor recenziile Google pe site-ul dumneavoastră WordPress. Creșteți SEO, construiți încredere și creșteți vânzările cu recenziile Google."
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "repocean"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"

@@ -1,0 +1,7 @@
+2024-12-22T03:27:25+00:00 INFO payment status check running.
+2024-12-22T03:27:26+00:00 INFO Response Body: {"product_code":"EPAYTEST","transaction_uuid":"6766b5d4df42fWC-esewa-retro313","total_amount":83999.0,"status":"NOT_FOUND","ref_id":null}
+2024-12-22T03:27:26+00:00 INFO Order ID 313Response Status: NOT_FOUND
+2024-12-22T03:27:26+00:00 INFO Extracting Order #313 from eSewa response.
+2024-12-22T03:27:26+00:00 INFO Found order #313
+2024-12-22T03:27:26+00:00 INFO Payment status: failedfor order #313
+2024-12-22T03:27:26+00:00 INFO order ID: 313esewa payment failed

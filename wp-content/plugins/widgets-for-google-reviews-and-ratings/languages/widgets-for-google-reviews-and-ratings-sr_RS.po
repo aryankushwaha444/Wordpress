@@ -1,0 +1,250 @@
+# Copyright (C) 2024 Widgets for Google Business Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Business Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Widgets for Google Business Reviews and Ratings 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/widgets-for-google-reviews-and-ratings\n"
+"POT-Creation-Date: 2024-10-30 10:52:08+00:00\n"
+"PO-Revision-Date: 2024-11-04 15:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: Српски <sr_RS@li.org>\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:39
+msgid "Google Reviews Settings"
+msgstr "Podešavanja Google recenzija"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:40 admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "Google recenzije"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:60
+msgid "Widget Customizer"
+msgstr "Prilagoditelj vidgeta"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:62
+msgid "Connect Google"
+msgstr "Poveži sa Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:63 admin/class-widgets-for-google-reviews-and-ratings-admin.php:254
+msgid "Select Layout"
+msgstr "Izaberi izgled"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:64 admin/class-widgets-for-google-reviews-and-ratings-admin.php:415
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:67
+msgid "Get Reviews"
+msgstr "Dohvati recenzije"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:153
+msgid "Nonce verification failed"
+msgstr "Provera nonce-a nije uspela"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:161
+msgid "Error decoding JSON."
+msgstr "Greška prilikom dekodiranja JSON."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:164
+msgid "Error: Place data not received."
+msgstr "Greška: Podaci o mestu nisu primljeni."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:167
+msgid "An error occurred: "
+msgstr "Došlo je do greške: "
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:206
+msgid "Place Image"
+msgstr "Slika mesta"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:211 public/class-widgets-for-google-reviews-and-ratings-public.php:187
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:295 public/class-widgets-for-google-reviews-and-ratings-public.php:472
+msgid "reviews"
+msgstr "recenzije"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:217
+msgid "Disconnect"
+msgstr "Odspoji"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:232
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "Mesto je uspešno odspojeno. Poveži novo mesto."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:258
+msgid "Layout: Slider"
+msgstr "Izgled: Klizač"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:260 admin/class-widgets-for-google-reviews-and-ratings-admin.php:278
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:296 admin/class-widgets-for-google-reviews-and-ratings-admin.php:314
+msgid "Your Shortcode:"
+msgstr "Vaš kratak kod:"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263 admin/class-widgets-for-google-reviews-and-ratings-admin.php:281
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:299 admin/class-widgets-for-google-reviews-and-ratings-admin.php:317
+msgid "Copy to Clipboard"
+msgstr "Kopiraj u međuspremnik"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:264 admin/class-widgets-for-google-reviews-and-ratings-admin.php:282
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:300 admin/class-widgets-for-google-reviews-and-ratings-admin.php:318
+msgid "Copied!"
+msgstr "Kopirano!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:276
+msgid "Layout: Grid"
+msgstr "Izgled: Mreža"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:294
+msgid "Layout: List"
+msgstr "Izgled: Spisak"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:312
+msgid "Layout: Sidebar"
+msgstr "Izgled: Bočna traka"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:361
+msgid "Settings saved successfully!"
+msgstr "Podešavanja su uspešno sačuvana!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:370
+msgid "Google Review Widget Settings"
+msgstr "Podešavanja vidgeta za Google recenzije"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:378
+msgid "Hide Review Date"
+msgstr "Sakrij datum recenzije"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:384
+msgid "Hide Reviewer Profile Picture"
+msgstr "Sakrij profilnu sliku recenzenta"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:390
+msgid "Hide Google Logo"
+msgstr "Sakrij Google logo"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:396
+msgid "Hide Widget Rating Text (e.g. Google Rating Score: 5.0 out of 5, based on XX reviews)"
+msgstr "Sakrij tekst ocene vidgeta (npr. Ocena Google: 5.0 od 5 na osnovu XX recenzija)"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:402
+msgid "Save Changes"
+msgstr "Sačuvaj promene"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:408
+msgid "An error occurred while saving the settings. Please try again."
+msgstr "Došlo je do greške prilikom čuvanja podešavanja. Pokušajte ponovo."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:424
+msgid "Community support"
+msgstr "Podrška zajednice"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:425
+msgid "Rate our plugin"
+msgstr "Oceni naš vtičnik"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "Vtičnik za prikazivanje Google recenzija"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "Naslov:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:73 public/class-widgets-for-google-reviews-and-ratings-public.php:212
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:392 public/class-widgets-for-google-reviews-and-ratings-public.php:566
+msgid "Hide"
+msgstr "Sakrij"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:74 public/class-widgets-for-google-reviews-and-ratings-public.php:175
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:213 public/class-widgets-for-google-reviews-and-ratings-public.php:361
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:393 public/class-widgets-for-google-reviews-and-ratings-public.php:533
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:567 public/class-widgets-for-google-reviews-and-ratings-public.php:673
+msgid "Read more"
+msgstr "Pročitaj više"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:116 public/class-widgets-for-google-reviews-and-ratings-public.php:257
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:435 public/class-widgets-for-google-reviews-and-ratings-public.php:609
+msgid "Unable to retrieve reviews at this time."
+msgstr "Trenutno nije moguće dobiti recenzije."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:121 public/class-widgets-for-google-reviews-and-ratings-public.php:127
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:262 public/class-widgets-for-google-reviews-and-ratings-public.php:268
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:440 public/class-widgets-for-google-reviews-and-ratings-public.php:446
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:614 public/class-widgets-for-google-reviews-and-ratings-public.php:620
+msgid "No reviews found."
+msgstr "Nema pronađenih recenzija."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:132 public/class-widgets-for-google-reviews-and-ratings-public.php:305
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:480 public/class-widgets-for-google-reviews-and-ratings-public.php:658
+msgid "%s ago"
+msgstr "%s pre"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Google"
+msgstr "Google"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Rating Score:"
+msgstr "Ocena:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:186
+msgid "out of 5,"
+msgstr "od 5,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:187
+msgid "based on"
+msgstr "na osnovu"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:193 public/class-widgets-for-google-reviews-and-ratings-public.php:373
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:546
+msgid "Your Google Place not connected"
+msgstr "Vaša Google lokacija nije povezana"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:196 public/class-widgets-for-google-reviews-and-ratings-public.php:376
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:549 public/class-widgets-for-google-reviews-and-ratings-public.php:710
+msgid "An error occurred."
+msgstr "Došlo je do greške."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:276 public/class-widgets-for-google-reviews-and-ratings-public.php:454
+msgid "EXCELLENT"
+msgstr "ODLIČNO"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:368 public/class-widgets-for-google-reviews-and-ratings-public.php:540
+msgid "Load More"
+msgstr "Učitaj više"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:630
+msgid "Excellent rating"
+msgstr "Odlična ocena"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:631
+msgid "Based on %s reviews"
+msgstr "Na osnovu %s recenzija"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:707
+msgid "Your Google Place is not connected."
+msgstr "Vaša Google lokacija nije povezana."
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Business Reviews and Ratings"
+msgstr "Vtičniki za Google ocene in recenzije podjetij"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "Hitro in enostavno dodajte Google ocene na svojo spletno mesto WordPress. Povečajte SEO, zgradite zaupanje in povečajte prodajo z Google ocenami."
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "repocean"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"

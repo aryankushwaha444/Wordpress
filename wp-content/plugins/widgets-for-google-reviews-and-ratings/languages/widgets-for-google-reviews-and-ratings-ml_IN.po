@@ -1,0 +1,250 @@
+# Copyright (C) 2024 Widgets for Google Business Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Business Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Widgets for Google Business Reviews and Ratings 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/widgets-for-google-reviews-and-ratings\n"
+"POT-Creation-Date: 2024-10-30 10:52:08+00:00\n"
+"PO-Revision-Date: 2024-11-04 15:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: മലയാളം <ml_IN@li.org>\n"
+"Language: ml_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:39
+msgid "Google Reviews Settings"
+msgstr "ഗൂഗിൾ അവലോകനങ്ങൾ ക്രമീകരണം"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:40 admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "ഗൂഗിൾ അവലോകനങ്ങൾ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:60
+msgid "Widget Customizer"
+msgstr "വീജറ്റ് കസ്റ്റമൈസർ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:62
+msgid "Connect Google"
+msgstr "ഗൂഗിള്‍ ബന്ധിപ്പിക്കുക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:63 admin/class-widgets-for-google-reviews-and-ratings-admin.php:254
+msgid "Select Layout"
+msgstr "ലേയൗട്ട് തിരഞ്ഞെടുക്കുക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:64 admin/class-widgets-for-google-reviews-and-ratings-admin.php:415
+msgid "Settings"
+msgstr "ക്രമീകരണങ്ങൾ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:67
+msgid "Get Reviews"
+msgstr "അവലോകനങ്ങൾ നേടുക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:153
+msgid "Nonce verification failed"
+msgstr "Nonce സ്ഥിരീകരണം പരാജയപ്പെട്ടു"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:161
+msgid "Error decoding JSON."
+msgstr "JSON ഡികോഡിങ്ങിൽ പിഴവ്."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:164
+msgid "Error: Place data not received."
+msgstr "പിഴവ്: സ്ഥലം വിവരങ്ങൾ ലഭ്യമായില്ല."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:167
+msgid "An error occurred: "
+msgstr "ഒരു പിഴവ് സംഭവിച്ചു: "
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:206
+msgid "Place Image"
+msgstr "സ്ഥലത്തിന്റെ ചിത്രം"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:211 public/class-widgets-for-google-reviews-and-ratings-public.php:187
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:295 public/class-widgets-for-google-reviews-and-ratings-public.php:472
+msgid "reviews"
+msgstr "അവലോകനങ്ങൾ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:217
+msgid "Disconnect"
+msgstr "ബന്ധം ഉൽക്കുക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:232
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "സ്ഥലം വിജയകരമായി ബന്ധം ഉൽക്കി. പുതിയ സ്ഥലം ബന്ധിപ്പിക്കുക."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:258
+msgid "Layout: Slider"
+msgstr "ലേയൗട്ട്: സ്ലൈഡർ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:260 admin/class-widgets-for-google-reviews-and-ratings-admin.php:278
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:296 admin/class-widgets-for-google-reviews-and-ratings-admin.php:314
+msgid "Your Shortcode:"
+msgstr "നിന്റെ ഷോർട്ട്കോഡ്:"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263 admin/class-widgets-for-google-reviews-and-ratings-admin.php:281
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:299 admin/class-widgets-for-google-reviews-and-ratings-admin.php:317
+msgid "Copy to Clipboard"
+msgstr "ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്ത്"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:264 admin/class-widgets-for-google-reviews-and-ratings-admin.php:282
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:300 admin/class-widgets-for-google-reviews-and-ratings-admin.php:318
+msgid "Copied!"
+msgstr "പകർന്നത്!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:276
+msgid "Layout: Grid"
+msgstr "ലേയൗട്ട്: ഗ്രിഡ്"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:294
+msgid "Layout: List"
+msgstr "ലേയൗട്ട്: പട്ടിക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:312
+msgid "Layout: Sidebar"
+msgstr "ലേയൗട്ട്: വശത്തെ പട്ടിക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:361
+msgid "Settings saved successfully!"
+msgstr "ക്രമീകരണങ്ങൾ വിജയകരമായി സേവ് ചെയ്തു!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:370
+msgid "Google Review Widget Settings"
+msgstr "ഗൂഗിള്‍ അവലോകന വെജിറ്റ് ക്രമീകരണങ്ങൾ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:378
+msgid "Hide Review Date"
+msgstr "അവലോകന തീയതി മറയ്ക്കുക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:384
+msgid "Hide Reviewer Profile Picture"
+msgstr "അവലോകനദായകന്റെ പ്രൊഫൈൽ ചിത്രം മറയ്ക്കുക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:390
+msgid "Hide Google Logo"
+msgstr "ഗൂഗിള്‍ ലോഗോ മറയ്ക്കുക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:396
+msgid "Hide Widget Rating Text (e.g. Google Rating Score: 5.0 out of 5, based on XX reviews)"
+msgstr "വെജിറ്റ് വിലയിരുത്തൽ എഴുത്ത് മറയ്ക്കുക (ഉദാ. ഗൂഗിള്‍ വിലയിരുത്തൽ സ്കോർ: 5.0 എന്നത് 5 ൽ, XX അവലോകനങ്ങൾക്ക് അടിസ്ഥാനമാക്കി)"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:402
+msgid "Save Changes"
+msgstr "മാറ്റങ്ങൾ സൂക്ഷിക്കുക"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:408
+msgid "An error occurred while saving the settings. Please try again."
+msgstr "ക്രമീകരണങ്ങൾ സൂക്ഷിക്കുമ്പോൾ ഒരു പിഴവ് സംഭവിച്ചു. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:424
+msgid "Community support"
+msgstr "സമൂഹ സഹായം"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:425
+msgid "Rate our plugin"
+msgstr "നമ്മുടെ പ്ലഗിൻ എളുപ്പത്തിലേക്ക്"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "ഗൂഗിൾ അവലോകനങ്ങൾ കാണിക്കുന്ന ഒരു വീജറ്റ്"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "ശീർഷകം:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:73 public/class-widgets-for-google-reviews-and-ratings-public.php:212
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:392 public/class-widgets-for-google-reviews-and-ratings-public.php:566
+msgid "Hide"
+msgstr "മറയ്ക്കുക"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:74 public/class-widgets-for-google-reviews-and-ratings-public.php:175
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:213 public/class-widgets-for-google-reviews-and-ratings-public.php:361
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:393 public/class-widgets-for-google-reviews-and-ratings-public.php:533
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:567 public/class-widgets-for-google-reviews-and-ratings-public.php:673
+msgid "Read more"
+msgstr "കൂടുതൽ വായിക്കുക"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:116 public/class-widgets-for-google-reviews-and-ratings-public.php:257
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:435 public/class-widgets-for-google-reviews-and-ratings-public.php:609
+msgid "Unable to retrieve reviews at this time."
+msgstr "ഈ സമയത്ത് അവലോകനങ്ങൾ വീണ്ടെടുക്കാൻ കഴിയുന്നില്ല."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:121 public/class-widgets-for-google-reviews-and-ratings-public.php:127
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:262 public/class-widgets-for-google-reviews-and-ratings-public.php:268
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:440 public/class-widgets-for-google-reviews-and-ratings-public.php:446
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:614 public/class-widgets-for-google-reviews-and-ratings-public.php:620
+msgid "No reviews found."
+msgstr "അവലോകനങ്ങൾ കണ്ടെത്തിയില്ല."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:132 public/class-widgets-for-google-reviews-and-ratings-public.php:305
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:480 public/class-widgets-for-google-reviews-and-ratings-public.php:658
+msgid "%s ago"
+msgstr "%s മുമ്പ്"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Google"
+msgstr "ഗൂഗിൾ"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Rating Score:"
+msgstr "അവലോകന സ്കോർ:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:186
+msgid "out of 5,"
+msgstr "5 ൽ നിന്നു,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:187
+msgid "based on"
+msgstr "അടിസ്ഥാനമാക്കിയാണ്"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:193 public/class-widgets-for-google-reviews-and-ratings-public.php:373
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:546
+msgid "Your Google Place not connected"
+msgstr "നിന്റെ ഗൂഗിൾ സ്ഥലം ബന്ധിപ്പിച്ചിട്ടില്ല"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:196 public/class-widgets-for-google-reviews-and-ratings-public.php:376
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:549 public/class-widgets-for-google-reviews-and-ratings-public.php:710
+msgid "An error occurred."
+msgstr "ഒരു പിഴവ് സംഭവിച്ചു."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:276 public/class-widgets-for-google-reviews-and-ratings-public.php:454
+msgid "EXCELLENT"
+msgstr "ശ്രേഷ്ഠം"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:368 public/class-widgets-for-google-reviews-and-ratings-public.php:540
+msgid "Load More"
+msgstr "കൂടുതൽ ലോഡ് ചെയ്യുക"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:630
+msgid "Excellent rating"
+msgstr "ശ്രേഷ്ഠം വിലയിരുത്തല്‍"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:631
+msgid "Based on %s reviews"
+msgstr " %s അവലോകനങ്ങൾ അടിസ്ഥാനമാക്കി"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:707
+msgid "Your Google Place is not connected."
+msgstr "നിന്റെ ഗൂഗിൾ സ്ഥലം ബന്ധിപ്പിച്ചിട്ടില്ല."
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Business Reviews and Ratings"
+msgstr "ഗൂഗിൾ ബിസിനസ് അവലോകനങ്ങളും സ്കോറുകളും വേണ്ടി വീജറ്റുകൾ"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "ഗൂഗിൾ അവലോകനങ്ങൾ നിങ്ങളുടെ WordPress വെബ്സൈറ്റിൽ പെട്ടന്ന് സുഖകരമായി ഉൾപ്പെടുത്തുക. SEO ഉന്നതമാക്കുക, വിശ്വാസം സ്ഥാപിക്കുക, ഗൂഗിൾ അവലോകനങ്ങളിലൂടെ വിൽപ്പന കൂട്ടുക."
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "repocean"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"

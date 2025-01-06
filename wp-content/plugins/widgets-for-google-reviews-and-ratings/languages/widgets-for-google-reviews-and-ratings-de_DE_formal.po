@@ -1,0 +1,250 @@
+# Copyright (C) 2024 Widgets for Google Business Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Business Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Widgets for Google Business Reviews and Ratings 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/widgets-for-google-reviews-and-ratings\n"
+"POT-Creation-Date: 2024-10-30 10:52:08+00:00\n"
+"PO-Revision-Date: 2024-11-04 15:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch (Sie) <de@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:39
+msgid "Google Reviews Settings"
+msgstr "Google-Bewertungen Einstellungen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:40 admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "Google-Bewertungen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:60
+msgid "Widget Customizer"
+msgstr "Widget-Anpassung"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:62
+msgid "Connect Google"
+msgstr "Google verbinden"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:63 admin/class-widgets-for-google-reviews-and-ratings-admin.php:254
+msgid "Select Layout"
+msgstr "Layout auswählen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:64 admin/class-widgets-for-google-reviews-and-ratings-admin.php:415
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:67
+msgid "Get Reviews"
+msgstr "Bewertungen abrufen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:153
+msgid "Nonce verification failed"
+msgstr "Nonce-Überprüfung fehlgeschlagen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:161
+msgid "Error decoding JSON."
+msgstr "Fehler beim Dekodieren von JSON."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:164
+msgid "Error: Place data not received."
+msgstr "Fehler: Ortsdaten nicht empfangen."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:167
+msgid "An error occurred: "
+msgstr "Ein Fehler ist aufgetreten: "
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:206
+msgid "Place Image"
+msgstr "Ortsbild"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:211 public/class-widgets-for-google-reviews-and-ratings-public.php:187
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:295 public/class-widgets-for-google-reviews-and-ratings-public.php:472
+msgid "reviews"
+msgstr "Bewertungen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:217
+msgid "Disconnect"
+msgstr "Trennen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:232
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "Ort erfolgreich getrennt. Verbinden Sie einen neuen Ort."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:258
+msgid "Layout: Slider"
+msgstr "Layout: Slider"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:260 admin/class-widgets-for-google-reviews-and-ratings-admin.php:278
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:296 admin/class-widgets-for-google-reviews-and-ratings-admin.php:314
+msgid "Your Shortcode:"
+msgstr "Ihr Shortcode:"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263 admin/class-widgets-for-google-reviews-and-ratings-admin.php:281
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:299 admin/class-widgets-for-google-reviews-and-ratings-admin.php:317
+msgid "Copy to Clipboard"
+msgstr "In die Zwischenablage kopieren"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:264 admin/class-widgets-for-google-reviews-and-ratings-admin.php:282
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:300 admin/class-widgets-for-google-reviews-and-ratings-admin.php:318
+msgid "Copied!"
+msgstr "Kopiert!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:276
+msgid "Layout: Grid"
+msgstr "Layout: Gitter"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:294
+msgid "Layout: List"
+msgstr "Layout: Liste"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:312
+msgid "Layout: Sidebar"
+msgstr "Layout: Seitenleiste"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:361
+msgid "Settings saved successfully!"
+msgstr "Einstellungen erfolgreich gespeichert!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:370
+msgid "Google Review Widget Settings"
+msgstr "Google-Bewertung Widget-Einstellungen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:378
+msgid "Hide Review Date"
+msgstr "Bewertungsdatum ausblenden"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:384
+msgid "Hide Reviewer Profile Picture"
+msgstr "Profilbild des Bewerters ausblenden"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:390
+msgid "Hide Google Logo"
+msgstr "Google-Logo ausblenden"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:396
+msgid "Hide Widget Rating Text (e.g. Google Rating Score: 5.0 out of 5, based on XX reviews)"
+msgstr "Widget-Bewertungstext ausblenden (z. B. Google Bewertung: 5,0 von 5, basierend auf XX Bewertungen)"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:402
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:408
+msgid "An error occurred while saving the settings. Please try again."
+msgstr "Beim Speichern der Einstellungen ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:424
+msgid "Community support"
+msgstr "Community-Unterstützung"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:425
+msgid "Rate our plugin"
+msgstr "Bewerten Sie unser Plugin"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "Ein Widget zur Anzeige von Google-Bewertungen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "Titel:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:73 public/class-widgets-for-google-reviews-and-ratings-public.php:212
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:392 public/class-widgets-for-google-reviews-and-ratings-public.php:566
+msgid "Hide"
+msgstr "Ausblenden"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:74 public/class-widgets-for-google-reviews-and-ratings-public.php:175
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:213 public/class-widgets-for-google-reviews-and-ratings-public.php:361
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:393 public/class-widgets-for-google-reviews-and-ratings-public.php:533
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:567 public/class-widgets-for-google-reviews-and-ratings-public.php:673
+msgid "Read more"
+msgstr "Mehr lesen"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:116 public/class-widgets-for-google-reviews-and-ratings-public.php:257
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:435 public/class-widgets-for-google-reviews-and-ratings-public.php:609
+msgid "Unable to retrieve reviews at this time."
+msgstr "Bewertungen können derzeit nicht abgerufen werden."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:121 public/class-widgets-for-google-reviews-and-ratings-public.php:127
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:262 public/class-widgets-for-google-reviews-and-ratings-public.php:268
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:440 public/class-widgets-for-google-reviews-and-ratings-public.php:446
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:614 public/class-widgets-for-google-reviews-and-ratings-public.php:620
+msgid "No reviews found."
+msgstr "Keine Bewertungen gefunden."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:132 public/class-widgets-for-google-reviews-and-ratings-public.php:305
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:480 public/class-widgets-for-google-reviews-and-ratings-public.php:658
+msgid "%s ago"
+msgstr "vor %s"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Google"
+msgstr "Google"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:185
+msgid "Rating Score:"
+msgstr "Bewertung:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:186
+msgid "out of 5,"
+msgstr "von 5,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:187
+msgid "based on"
+msgstr "basierend auf"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:193 public/class-widgets-for-google-reviews-and-ratings-public.php:373
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:546
+msgid "Your Google Place not connected"
+msgstr "Ihr Google-Ort ist nicht verbunden"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:196 public/class-widgets-for-google-reviews-and-ratings-public.php:376
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:549 public/class-widgets-for-google-reviews-and-ratings-public.php:710
+msgid "An error occurred."
+msgstr "Ein Fehler ist aufgetreten."
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:276 public/class-widgets-for-google-reviews-and-ratings-public.php:454
+msgid "EXCELLENT"
+msgstr "AUSGEZEICHNET"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:368 public/class-widgets-for-google-reviews-and-ratings-public.php:540
+msgid "Load More"
+msgstr "Mehr laden"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:630
+msgid "Excellent rating"
+msgstr "Ausgezeichnete Bewertung"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:631
+msgid "Based on %s reviews"
+msgstr "Basierend auf %s Bewertungen"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:707
+msgid "Your Google Place is not connected."
+msgstr "Ihr Google-Ort ist nicht verbunden."
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Business Reviews and Ratings"
+msgstr "Widgets für Google Business-Bewertungen und -Rezensionen"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "Binden Sie Google-Bewertungen schnell und einfach in Ihre WordPress-Seite ein. Verbessern Sie SEO, bauen Sie Vertrauen auf und steigern Sie den Umsatz mit Google-Bewertungen."
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "repocean"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"
